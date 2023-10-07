@@ -1,0 +1,10 @@
+.containerr{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.navLinks{
+    text-decoration: none;
+    color: gold;
+}
